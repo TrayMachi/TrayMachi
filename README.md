@@ -1,4 +1,3 @@
-[![MasterHead](https://media.discordapp.net/attachments/853604444310732830/1211072471889870889/image.png?ex=65ecde21&is=65da6921&hm=412bd95d612138c777293938fa9868520c488f2ddae0ee20a2f67bb415a90ac1&=&format=webp&quality=lossless&width=1334&height=702)](https://tristan-agra.vercel.app)
 <h1 align="center">Hi 👋, I'm Tristan Agra Yudhistira</h1>
 <h3 align="center">An enthusiastic Full Stack Developer that's currently Undergraduate in Computer Science University of Indonesia.</h3>
 
