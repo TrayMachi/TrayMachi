@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=traymachi&label=Profile%20views&color=0e75b6&style=flat" alt="traymachi" /> </p>
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/TrayMachi/money-web)
-
-- 🌱 I’m currently learning **NextJs and BaaS**
+- 🌱 I’m currently learning **NextJs and NestJs**
 
 - 👨‍💻 All of my projects are available at [https://tristan-agra.vercel.app](https://tristan-agra.vercel.app)
-
-- 💬 Ask me about **Modern Web Development**
 
 - 📫 How to reach me **tristanagraa@gmail.com**
 
